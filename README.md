@@ -6,6 +6,10 @@ This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
 If you want to learn more about Quarkus, please visit its website: https://quarkus.io/.
 
+## Follow the video tutorial:
+
+[![Alt text](https://user-images.githubusercontent.com/8536722/110162186-aa6eab00-7dee-11eb-8289-bd3cf6c13a11.png)](https://youtu.be/zs8aN5g0lr0 "Click to play on Youtube.com")
+
 ## Test the application
 ```shell script
 ./mvnw compile test
@@ -51,4 +55,4 @@ The application is now runnable using `java -jar target/quarkus-testing-restassu
 "H2 is an open-source lightweight Java database. It can be embedded in Java applications or run in the client-server mode. Mainly, H2 database can be configured to run as inmemory database, which means that data will not persist on the disk. Because of embedded database it is not used for production development, but mostly used for development and testing."
 
 ## Feedback
-I am [Giuseppe Scaramuzzino](https://www.linkedin.com/in/giuseppe-scaramuzzino/) and you can find me on Twitter [@GiuseScara](https://twitter.com/GiuseScara) to provide feedback or discuss anything about this video 🙂
+I am [Giuseppe Scaramuzzino](https://www.linkedin.com/in/giuseppe-scaramuzzino/) and you can find me on Twitter [@GiuseScara](https://twitter.com/GiuseScara) to provide feedback or discuss anything about this project. 🙂
