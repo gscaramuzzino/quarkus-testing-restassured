@@ -44,10 +44,10 @@ If you want to build an _über-jar_, execute the following command:
 
 The application is now runnable using `java -jar target/quarkus-testing-restassured-1.0.0-SNAPSHOT-runner.jar`.
 
-## What is [REST Assured](https://rest-assured.io/)? \
+## What is [REST Assured](https://rest-assured.io/)? 
 "Testing and validating REST services in Java is harder than in dynamic languages such as Ruby and Groovy. REST Assured brings the simplicity of using these languages into the Java domain."
 
-## What is [H2Database](http://h2database.com/html/main.html) ? \
+## What is [H2Database](http://h2database.com/html/main.html) ? 
 "H2 is an open-source lightweight Java database. It can be embedded in Java applications or run in the client-server mode. Mainly, H2 database can be configured to run as inmemory database, which means that data will not persist on the disk. Because of embedded database it is not used for production development, but mostly used for development and testing."
 
 ## Feedback
