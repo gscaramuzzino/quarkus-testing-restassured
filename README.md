@@ -1,6 +1,6 @@
 # Test a Quarkus application with REST Assured and H2 Database
 
-Simple project that shows you how test a Quarkus application with REST Assured and H2 Database.
+Simple project that shows you how to test a Quarkus application with REST Assured and H2 Database.
 
 This project uses Quarkus, the Supersonic Subatomic Java Framework.
 
